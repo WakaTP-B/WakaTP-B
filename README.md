@@ -1,16 +1,19 @@
-## Hi there 👋
+Salut, moi c'est Amaury ! 👋
+Développeur web en herbe, passionné par la création de sites et d'applications from scratch.
+J'apprends au quotidien avec HTML, CSS & PHP — projet après projet !
 
-<!--
-**WakaTP-B/WakaTP-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technologies utilisées
+!HTML
+!CSS
+!PHP
 
-Here are some ideas to get you started:
+🚀 Projets récents
+🍔 Burger — Site vitrine pour un restaurant burger
+☕ Coffee — Page d'accueil pour un café
+📸 MiniInsta — Mini application inspirée d'Instagram
+✅ TaskList — Gestionnaire de tâches en PHP
+❓ Quizz — Application de quiz en PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Toujours en progression
+Je code chaque jour, j'explore le web et j'avance pas à pas.
+Chaque projet est une nouvelle occasion d'apprendre !
